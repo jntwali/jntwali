@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jntwali
 - 👀 I’m interested in programming for science applications. 
-- 🌱 I’m currently learning programming in R and pyton
-- 💞️ I’m looking to collaborate on models
+- 🌱 I’m currently learning programming in R and python
+- 💞️ I’m looking to collaborate on models, data science, robotics and other science applications.
 - 📫 How to reach me janvier.ntwali@uni-hohenheim.de
 
 <!---
